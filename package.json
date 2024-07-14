@@ -1,0 +1,12 @@
+{
+  "name": "mact6340contract",
+  "version": "1.0.0",
+  "description": "This is the smart contract for my NFT mint for MACT6340 course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Blake Knight",
+  "license": "MIT"
+}
